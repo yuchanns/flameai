@@ -1,6 +1,6 @@
 {
   "name": "@yuchanns/flameai",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An Incomplete implementation of Azure OpenAI SDK for Cloudflare ",
   "main": "index.js",
   "main": "dist/index.js",
