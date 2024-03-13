@@ -9,6 +9,10 @@
     "build": "tsc",
     "test": "jest --verbose"
   },
+  "repository": {
+    "type": "git", 
+    "url": "https://github.com/yuchanns/flameai.git"
+  },
   "keywords": [
     "Azure OpenAI",
     "cloudflare"
